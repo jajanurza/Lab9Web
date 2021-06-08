@@ -6,9 +6,10 @@ nim   : 311910083
 
 kelas : ti.19.b1
 
-link pratikum 10
+tugas  pratikum10
 
-https://github.com/jajanurza/Lab10Web
+link: https://github.com/jajanurza/Lab10Web
+
 
 PHP Modular
 Jalankan XAMPP dan akses http://localhost/phpmyadmin/ untuk membuat database.
