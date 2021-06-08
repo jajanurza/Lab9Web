@@ -36,5 +36,12 @@ Buat file baru dengan nama home.php pada folder c:\xampp\htdocs\lab9_php_modular
 
 Hasil Ketika di buka menggunakan link di samping http://localhost/lab9_php_modular/
 
+Home
+
 ![image](https://user-images.githubusercontent.com/81528179/121054731-d5e6a480-c7e6-11eb-8889-118bfaa7828f.png)
+
+About
+
+![Screenshot (251)](https://user-images.githubusercontent.com/81528179/121197229-57980a00-c89b-11eb-8857-e4b1c687f58c.png)
+
 
